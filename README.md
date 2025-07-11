@@ -1,1 +1,1 @@
-# clustering-mall-customer-EDAA
+# clustering-mall-customer-EDA
