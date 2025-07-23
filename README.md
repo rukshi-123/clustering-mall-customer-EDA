@@ -1,4 +1,4 @@
-kwnciuwbivb## clustering-mall-customer-EDA
+wnciuwbivb## clustering-mall-customer-EDA
 📊 Machine Learning Clustering Model - Unsupervised Learning
 
 This project contains a Jupyter Notebook (`clustering.ipynb`) that demonstrates the application of clustering algorithms on two different datasets: Mall Customer Data and Live Social Media Data. 🚀
